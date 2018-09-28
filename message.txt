@@ -1,18 +1,3 @@
-Hey [~nherman], 
+Hello Amar
 
-I did some analysis on the issue and did try to reproduce but was not able to reproduce this. The issue is around the incorrect credentials entered by the user. 
-
-I have attached a video which shows the errors on Vantage for 3.4.4.72 build which shows that Vantage on getting invalid credentials is displaying the errors correctly. 
-
-00:44 Error shown when Equinox on Vantage is opened. 
-01:11 Error shown when Equinox on Vantage on TOM.
-01:25 Android Notification centre shows the incorrect credentials for Unified Login
-01:30 I enter credentials with a wrong password.
-01:55 Vantage displays invalid credentials as a Toast on TOM
-02:03  Android Notification centre shows the incorrect credentials for Unified Login
-02:08 I enter the correct credentials and the Vantage gets logged in with all the services configured properly. 
-
-Can you please check with impacted users if they saw the same things on their devices?
-
-Thanks
-Shiv
+This is a new modification to your existing file
